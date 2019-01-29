@@ -1,0 +1,25 @@
+webroot{
+    Archives{
+        ProjectIndex.idr{
+            (project id)
+            0{
+                project.idx
+                (vid)
+                0{
+                    version.info
+                    documents
+                    ...
+                    }
+                1
+                2
+                ...
+                }
+            1
+            2
+        }
+        ...
+        ...
+        ...
+    }
+    pages...
+}
